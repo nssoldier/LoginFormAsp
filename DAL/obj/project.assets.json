@@ -456,7 +456,7 @@
       ]
     },
     "System.Security.Principal.Windows/4.4.0": {
-      "sha512": "ynC5BKYwhgON6WH/yPM5ZLKc19wqC13A5fl4hZa5Lf8pQwv1YmbCPKGualWSRhEoOVWH2FzZhOXauER6al4Upg==",
+      "sha512": "yNxhQZ5oJb2Q7VqNj1Af6e+9KXzHcXJdv+eE+1Lp2+FYBwmVLQs2LfQpeSfz5RxorwlV0EpNbkLatPScb+XEWw==",
       "type": "package",
       "path": "system.security.principal.windows/4.4.0",
       "files": [
@@ -557,23 +557,23 @@
     ]
   },
   "packageFolders": {
-    "/home/hoangbv/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Hoang\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hoangbv/LoginFormAsp/DAL/DAL.csproj",
+      "projectUniqueName": "c:\\Users\\Hoang\\Desktop\\LoginFormAsp\\LoginFormAsp\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "/home/hoangbv/LoginFormAsp/DAL/DAL.csproj",
-      "packagesPath": "/home/hoangbv/.nuget/packages/",
-      "outputPath": "/home/hoangbv/LoginFormAsp/DAL/obj/",
+      "projectPath": "c:\\Users\\Hoang\\Desktop\\LoginFormAsp\\LoginFormAsp\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\Hoang\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Hoang\\Desktop\\LoginFormAsp\\LoginFormAsp\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/hoangbv/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -584,8 +584,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/home/hoangbv/LoginFormAsp/Persistence/Persistence.csproj": {
-              "projectPath": "/home/hoangbv/LoginFormAsp/Persistence/Persistence.csproj"
+            "c:\\Users\\Hoang\\Desktop\\LoginFormAsp\\LoginFormAsp\\Persistence\\Persistence.csproj": {
+              "projectPath": "c:\\Users\\Hoang\\Desktop\\LoginFormAsp\\LoginFormAsp\\Persistence\\Persistence.csproj"
             }
           }
         }

@@ -16,3 +16,12 @@ c:/Users/Hoang/Desktop/Login/Persistence/obj/Debug/netstandard2.0/Persistence.pd
 /home/hoangbv/LoginFormAsp/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
 /home/hoangbv/LoginFormAsp/Persistence/obj/Debug/netstandard2.0/Persistence.dll
 /home/hoangbv/LoginFormAsp/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

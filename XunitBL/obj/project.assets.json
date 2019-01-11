@@ -6290,11 +6290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hoang\\Desktop\\Login\\XunitBL\\XunitBL.csproj",
+      "projectUniqueName": "c:\\Users\\Hoang\\Desktop\\LoginFormAsp\\LoginFormAsp\\XunitBL\\XunitBL.csproj",
       "projectName": "XunitBL",
-      "projectPath": "C:\\Users\\Hoang\\Desktop\\Login\\XunitBL\\XunitBL.csproj",
+      "projectPath": "c:\\Users\\Hoang\\Desktop\\LoginFormAsp\\LoginFormAsp\\XunitBL\\XunitBL.csproj",
       "packagesPath": "C:\\Users\\Hoang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hoang\\Desktop\\Login\\XunitBL\\obj\\",
+      "outputPath": "c:\\Users\\Hoang\\Desktop\\LoginFormAsp\\LoginFormAsp\\XunitBL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6311,8 +6311,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Hoang\\Desktop\\Login\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\Hoang\\Desktop\\Login\\BL\\BL.csproj"
+            "c:\\Users\\Hoang\\Desktop\\LoginFormAsp\\LoginFormAsp\\BL\\BL.csproj": {
+              "projectPath": "c:\\Users\\Hoang\\Desktop\\LoginFormAsp\\LoginFormAsp\\BL\\BL.csproj"
             }
           }
         }

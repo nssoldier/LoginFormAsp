@@ -24,3 +24,16 @@ c:/Users/Hoang/Desktop/Login/DAL/obj/Debug/netstandard2.0/DAL.pdb
 /home/hoangbv/LoginFormAsp/DAL/obj/Debug/netstandard2.0/DAL.csproj.CopyComplete
 /home/hoangbv/LoginFormAsp/DAL/obj/Debug/netstandard2.0/DAL.dll
 /home/hoangbv/LoginFormAsp/DAL/obj/Debug/netstandard2.0/DAL.pdb
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\bin\Debug\netstandard2.0\ConnectionString.txt
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\Hoang\Desktop\LoginFormAsp\LoginFormAsp\DAL\obj\Debug\netstandard2.0\DAL.pdb
