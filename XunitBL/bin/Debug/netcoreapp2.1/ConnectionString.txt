@@ -1,0 +1,1 @@
+server=localhost;user id=root;password=24112111;port=3306;database=DemoASP;SslMode=None

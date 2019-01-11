@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    
+}
+<!-- Html.Action("Index","Home"); -->
+@model LoginModel;
+<!-- bool anyRows = custs.Any(); -->
+
+
+
+    
+
+
+
+  
+    
+     <!-- <img src="Logo.png" alt="Responsive Image" class= "d-flex justify-content-center mx-auto my-5" height=10% width=10%></div> -->
+<div class="wrapper">
+    <div class="form-signin" name="logform">
+    @using (Html.BeginForm()) 
+    {  
+        <h3 >Login</h3>
+        <!-- @Html.ValidationSummary(true, "", new { @class = "text-danger" }) -->
+        @Html.EditorFor(Model => Model.userName, new { htmlAttributes = new { @class = "form-control inputaspun", @name="username" , @placeholder="User Name", @required="", @autofocus=""}})
+        <!-- @Html.ValidationMessageFor(model => model.userName, "", new { @class = "text-danger" })       -->
+      <!-- <input type="text" class="form-control" name="username"  placeholder="User Name" required="" autofocus="" /> -->
+        @Html.EditorFor(Model => Model.password, new { htmlAttributes = new { @class = "form-control inputasppw",@type="password", @name="password" , @placeholder="Password", @required=""}})
+        <!-- @Html.ValidationMessageFor(model => model.password, "", new {@class = "text-danger" })       -->
+        <p class="text-center col-sm-8" style='color:red'>@ViewData["wrong"]</p>
+      <!-- <input type="password" class="form-control" name="password"  minlength="8" maxlength="12" placeholder="Password" required=""/> -->
+      <button class="btn btn-lg btn-success btn-block" type="submit">Login</button>   
+    }
+    </div>
+</div>
