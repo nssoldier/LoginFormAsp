@@ -1,0 +1,15 @@
+/home/hoangbv/LoginFormAsp/BL/bin/Release/netstandard2.0/ConnectionString.txt
+/home/hoangbv/LoginFormAsp/BL/bin/Release/netstandard2.0/BL.deps.json
+/home/hoangbv/LoginFormAsp/BL/bin/Release/netstandard2.0/BL.dll
+/home/hoangbv/LoginFormAsp/BL/bin/Release/netstandard2.0/BL.pdb
+/home/hoangbv/LoginFormAsp/BL/bin/Release/netstandard2.0/DAL.dll
+/home/hoangbv/LoginFormAsp/BL/bin/Release/netstandard2.0/Persistence.dll
+/home/hoangbv/LoginFormAsp/BL/bin/Release/netstandard2.0/DAL.pdb
+/home/hoangbv/LoginFormAsp/BL/bin/Release/netstandard2.0/Persistence.pdb
+/home/hoangbv/LoginFormAsp/BL/obj/Release/netstandard2.0/BL.csprojAssemblyReference.cache
+/home/hoangbv/LoginFormAsp/BL/obj/Release/netstandard2.0/BL.csproj.CoreCompileInputs.cache
+/home/hoangbv/LoginFormAsp/BL/obj/Release/netstandard2.0/BL.AssemblyInfoInputs.cache
+/home/hoangbv/LoginFormAsp/BL/obj/Release/netstandard2.0/BL.AssemblyInfo.cs
+/home/hoangbv/LoginFormAsp/BL/obj/Release/netstandard2.0/BL.csproj.CopyComplete
+/home/hoangbv/LoginFormAsp/BL/obj/Release/netstandard2.0/BL.dll
+/home/hoangbv/LoginFormAsp/BL/obj/Release/netstandard2.0/BL.pdb

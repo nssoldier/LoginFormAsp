@@ -1,0 +1,13 @@
+/home/hoangbv/LoginFormAsp/DAL/bin/Release/netstandard2.0/ConnectionString.txt
+/home/hoangbv/LoginFormAsp/DAL/bin/Release/netstandard2.0/DAL.deps.json
+/home/hoangbv/LoginFormAsp/DAL/bin/Release/netstandard2.0/DAL.dll
+/home/hoangbv/LoginFormAsp/DAL/bin/Release/netstandard2.0/DAL.pdb
+/home/hoangbv/LoginFormAsp/DAL/bin/Release/netstandard2.0/Persistence.dll
+/home/hoangbv/LoginFormAsp/DAL/bin/Release/netstandard2.0/Persistence.pdb
+/home/hoangbv/LoginFormAsp/DAL/obj/Release/netstandard2.0/DAL.csprojAssemblyReference.cache
+/home/hoangbv/LoginFormAsp/DAL/obj/Release/netstandard2.0/DAL.csproj.CoreCompileInputs.cache
+/home/hoangbv/LoginFormAsp/DAL/obj/Release/netstandard2.0/DAL.AssemblyInfoInputs.cache
+/home/hoangbv/LoginFormAsp/DAL/obj/Release/netstandard2.0/DAL.AssemblyInfo.cs
+/home/hoangbv/LoginFormAsp/DAL/obj/Release/netstandard2.0/DAL.csproj.CopyComplete
+/home/hoangbv/LoginFormAsp/DAL/obj/Release/netstandard2.0/DAL.dll
+/home/hoangbv/LoginFormAsp/DAL/obj/Release/netstandard2.0/DAL.pdb

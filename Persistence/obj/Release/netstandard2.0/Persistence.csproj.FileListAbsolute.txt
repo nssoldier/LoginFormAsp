@@ -1,0 +1,9 @@
+/home/hoangbv/LoginFormAsp/Persistence/bin/Release/netstandard2.0/Persistence.deps.json
+/home/hoangbv/LoginFormAsp/Persistence/bin/Release/netstandard2.0/Persistence.dll
+/home/hoangbv/LoginFormAsp/Persistence/bin/Release/netstandard2.0/Persistence.pdb
+/home/hoangbv/LoginFormAsp/Persistence/obj/Release/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/home/hoangbv/LoginFormAsp/Persistence/obj/Release/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/home/hoangbv/LoginFormAsp/Persistence/obj/Release/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/home/hoangbv/LoginFormAsp/Persistence/obj/Release/netstandard2.0/Persistence.AssemblyInfo.cs
+/home/hoangbv/LoginFormAsp/Persistence/obj/Release/netstandard2.0/Persistence.dll
+/home/hoangbv/LoginFormAsp/Persistence/obj/Release/netstandard2.0/Persistence.pdb
